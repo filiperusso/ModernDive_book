@@ -8,7 +8,7 @@ Esta é uma versão em português do livro **Statistical Inference via Data Scie
 
 # ModernDive <img src="images/logos/hex_blue_text.png" align="right" width=125 />
 
-[![Build Status](https://travis-ci.org/moderndive/moderndive_book.svg?branch=master)](https://travis-ci.org/moderndive/moderndive_book) Note: travis-ci atualmente coloca em produção a versão em desenvolvimento do livro para o branch `gh-pages` deste repositório, o qual é hospedado via Netlify em [moderndive.netlify.com](https://moderndive.netlify.com). [![Netlify Status](https://api.netlify.com/api/v1/badges/10e04707-18d4-4081-9a9f-33d4cbaa1325/deploy-status)](https://app.netlify.com/sites/moderndive/deploys)
+[![Build Status](https://travis-ci.org/moderndive/moderndive_book.svg?branch=master)](https://travis-ci.org/moderndive/moderndive_book) Note: travis-ci atualmente coloca em produção a versão de desenvolvimento do livro para o branch `gh-pages` deste repositório, o qual é hospedado via Netlify em [moderndive.netlify.com](https://moderndive.netlify.com). [![Netlify Status](https://api.netlify.com/api/v1/badges/10e04707-18d4-4081-9a9f-33d4cbaa1325/deploy-status)](https://app.netlify.com/sites/moderndive/deploys)
 
 [![https://moderndive.com/ Netlify Status](https://api.netlify.com/api/v1/badges/10e04707-18d4-4081-9a9f-33d4cbaa1325/deploy-status)](https://app.netlify.com/sites/moderndive/deploys) O branch `release` coloca em produção para https://moderndive.com.
 
