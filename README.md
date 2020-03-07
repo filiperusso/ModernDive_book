@@ -1,4 +1,27 @@
-## Original README.md
+# Portuguese README.md (portuguese version)
+
+
+## Nota do Tradutor
+
+Esta é uma versão em português do livro **Statistical Inference via Data Science: A ModernDive into R and the Tidyverse**, escrito pelos autores Chester Ismay e Albert Y. Kim, esta versão assim como a original está subordinada à licença [Creative Commons Attribution - NonCommercial - ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). A tradução do inglês para o português está sendo produzida pelo estudante de matemática Filipe Russo.
+
+
+# ModernDive <img src="images/logos/hex_blue_text.png" align="right" width=125 />
+
+[![Build Status](https://travis-ci.org/moderndive/moderndive_book.svg?branch=master)](https://travis-ci.org/moderndive/moderndive_book) Note: travis-ci atualmente coloca em produção a versão em desenvolvimento do livro para o branch `gh-pages` deste repositório, o qual é hospedado via Netlify em [moderndive.netlify.com](https://moderndive.netlify.com). [![Netlify Status](https://api.netlify.com/api/v1/badges/10e04707-18d4-4081-9a9f-33d4cbaa1325/deploy-status)](https://app.netlify.com/sites/moderndive/deploys)
+
+[![https://moderndive.com/ Netlify Status](https://api.netlify.com/api/v1/badges/10e04707-18d4-4081-9a9f-33d4cbaa1325/deploy-status)](https://app.netlify.com/sites/moderndive/deploys) O branch `release` coloca em produção para https://moderndive.com.
+
+
+## Sobre este livro
+
+Seja bem-vinde à pagina do repositório Github para **Statistical Inference via Data Science: A ModernDive into R and the Tidyverse** disponível em [ModernDive.com](https://moderndive.com/). CRC Press estará lançando [a versão impressa](https://www.crcpress.com/Statistical-Inference-via-Data-Science-A-ModernDive-into-R-and-the-Tidyverse/Ismay-Kim/p/book/9780367409821) deste livro em Dezembro 23, 2019!
+
+<img src="images/logos/book_cover.png" width="50%"/>
+
+
+# Original README.md (english version)
+
 
 # ModernDive <img src="images/logos/hex_blue_text.png" align="right" width=125 />
 
