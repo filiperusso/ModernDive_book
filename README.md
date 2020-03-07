@@ -1,4 +1,4 @@
-### Original README.md
+## Original README.md
 
 # ModernDive <img src="images/logos/hex_blue_text.png" align="right" width=125 />
 
