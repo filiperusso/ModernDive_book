@@ -15,9 +15,25 @@ Esta é uma versão em português do livro **Statistical Inference via Data Scie
 
 ## Sobre este livro
 
-Seja bem-vinde à pagina do repositório Github para **Statistical Inference via Data Science: A ModernDive into R and the Tidyverse** disponível em [ModernDive.com](https://moderndive.com/). CRC Press estará lançando [a versão impressa](https://www.crcpress.com/Statistical-Inference-via-Data-Science-A-ModernDive-into-R-and-the-Tidyverse/Ismay-Kim/p/book/9780367409821) deste livro em Dezembro 23, 2019!
+Seja bem-vinde à pagina do repositório Github para **Statistical Inference via Data Science: A ModernDive into R and the Tidyverse** disponível em [ModernDive.com](https://moderndive.com/). CRC Press lançará [a versão impressa](https://www.crcpress.com/Statistical-Inference-via-Data-Science-A-ModernDive-into-R-and-the-Tidyverse/Ismay-Kim/p/book/9780367409821) deste livro em Dezembro 23, 2019!
 
 <img src="images/logos/book_cover.png" width="50%"/>
+
+
+## Conteúdo deste Repositório
+
+ModernDive é construído com o pacote [`bookdown`](https://www.rstudio.com/resources/webinars/introducing-bookdown/) do RStudio; para mais informação sobre com utilizar o `bookdown` veja [bookdown.org](https://bookdown.org/). Se você quiser construir o livro você mesmo, por favor faça questão de primeiro instalar o pacote `bookdown` via `install.packages("bookdown")`.
+
+* O código fonte em `bookdown` para a versão de desenvolvimento do ModernDive está acima, da qual a saída pode ser visualizada em [moderndive.netlify.com](https://moderndive.netlify.com) a qual é baseada nos arquivos HTML emitidas para a pasta `docs/`.
+* O código fonte em `bookdown` para todas as [versões previamente lançadas](https://moderndive.com/index.html#about-book) do ModernDive, incluindo a última versão disponível em [ModernDive.com](https://moderndive.com/), é acessável na página [Releases](https://github.com/moderndive/moderndive_book/releases).
+* Para informação sobre todas as mudanças entre versões e nossas mudanças planejadas para a próxima versão, por favor veja [NEWS.md](https://github.com/moderndive/moderndive_book/blob/master/NEWS.md).
+
+
+## Mais Informação
+
+* Contacte Albert em [albert.ys.kim@gmail.com](mailto:albert.ys.kim@gmail.com) e Chester em [chester.ismay@gmail.com](mailto:chester.ismay@gmail.com).
+* Nós estamos no Twitter em [ModernDive](https://twitter.com/ModernDive).
+* Se você quiser receber atualizações periódicas sobre o ModernDive (aproximadamente a cada 3 meses), por favor assine a nossa [mailing list](http://eepurl.com/cBkItf).
 
 
 # Original README.md (english version)
