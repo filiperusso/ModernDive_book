@@ -1,6 +1,6 @@
 --- 
 title: "`r ifelse(knitr::is_latex_output(), 'Inferência Estatística via Ciência dos Dados: Um Mergulho Moderno em R e no Tidyverse', 'Inferência Estatística via Ciências dos Dados')`"
-subtitle: "A ModernDive into R and the Tidyverse"
+subtitle: "Um Mergulho Moderno em R e no Tidyverse"
 author: "`r ifelse(knitr::is_latex_output(), 'Chester Ismay and Albert Y. Kim', 'Chester Ismay and Albert Y. Kim <br> Apresentação por Kelly S. McConville <br> Tradução por Filipe Russo')`"
 date: "7 de Março de 2019 "
 site: bookdown::bookdown_site
