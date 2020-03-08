@@ -1,8 +1,8 @@
 --- 
-title: "`r ifelse(knitr::is_latex_output(), 'Statistical Inference via Data Science:  A ModernDive into R and the Tidyverse', 'Statistical Inference via Data Science')`"
+title: "`r ifelse(knitr::is_latex_output(), 'Inferência Estatística via Ciência dos Dados: Um Mergulho Moderno em R e no Tidyverse', 'Inferência Estatística via Ciências dos Dados')`"
 subtitle: "A ModernDive into R and the Tidyverse"
-author: "`r ifelse(knitr::is_latex_output(), 'Chester Ismay and Albert Y. Kim', 'Chester Ismay and Albert Y. Kim <br> Foreword by Kelly S. McConville')`"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
+author: "`r ifelse(knitr::is_latex_output(), 'Chester Ismay and Albert Y. Kim', 'Chester Ismay and Albert Y. Kim <br> Apresentação por Kelly S. McConville <br> Tradução por Filipe Russo')`"
+date: "7 de Março de 2019 "
 site: bookdown::bookdown_site
 documentclass: krantz
 bibliography: [bib/books.bib, bib/packages.bib, bib/articles.bib]
@@ -262,7 +262,7 @@ image_link <- function(path,
 
 ```{r echo=FALSE, results="asis"}
 if(knitr::is_html_output())
-  cat("# Welcome to ModernDive {-}")
+  cat("# Seja bem vinde ao ModernDive {-}")
 ```
 
 <!--
@@ -287,10 +287,10 @@ if(knitr::is_html_output()){
 </br>
 <!-- include=FALSE for PDF sending to CRC -->
 ```{block, purl=FALSE, include=knitr::is_html_output()}
-This is the [website](https://moderndive.com/) for *Statistical Inference via Data Science:  A ModernDive into R and the Tidyverse*! Visit the [GitHub repository for this site](https://github.com/moderndive/ModernDive_book), find the book at [CRC Press](https://www.crcpress.com/Statistical-Inference-via-Data-Science-A-ModernDive-into-R-and-the-Tidyverse/Ismay-Kim/p/book/9780367409821), or [buy it on Amazon](https://www.amazon.com/Statistical-Inference-via-Data-Science/dp/0367409828/).
+Este é o [website](https://moderndive.com/) para *Statistical Inference via Data Science:  A ModernDive into R and the Tidyverse*! Visite o [repositório GitHub para este site](https://github.com/moderndive/ModernDive_book), encontre o livro em [CRC Press](https://www.crcpress.com/Statistical-Inference-via-Data-Science-A-ModernDive-into-R-and-the-Tidyverse/Ismay-Kim/p/book/9780367409821), ou [compre na Amazon](https://www.amazon.com/Statistical-Inference-via-Data-Science/dp/0367409828/).
 ```
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work by [Chester Ismay](https://chester.rbind.io/) and [Albert Y. Kim](https://rudeboybert.rbind.io/) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabalho por [Chester Ismay](https://chester.rbind.io/) e [Albert Y. Kim](https://rudeboybert.rbind.io/) é licenciado através da licença<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
 
 
 <!-- index.Rmd has to have some content in it or it won't create an index.html 
